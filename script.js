@@ -1,1 +1,0 @@
-// confirm('Are you a PUBG GAMER?')
